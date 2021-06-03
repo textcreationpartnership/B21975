@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons in Parliament assembled willing that no messenger or officer ... shall arrest, take, or carry away any of His Majesties subjects against their wils ... as also the vindication of both houses of Parliament of the Earle of Stamford, and others, from His Maiesties imputation of treason : with certain instructions from His Majesty to all the judges of the Kingdome of England.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21975</idno><idno type="EEBO-CITATION">11233019</idno>
+  <idno type="VID">204949</idno>
+  <idno type="EEBO-PROQUEST">2240873910</idno>
+  
+            <idno type="STC">Wing E1478</idno>
+            <idno type="OCLC">11233019</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204949)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:86)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons in Parliament assembled willing that no messenger or officer ... shall arrest, take, or carry away any of His Majesties subjects against their wils ... as also the vindication of both houses of Parliament of the Earle of Stamford, and others, from His Maiesties imputation of treason : with certain instructions from His Majesty to all the judges of the Kingdome of England.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 28, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered by the Lords and Commons assembled in Parliament that this declaration shall be forthwith printed and published. John Brown, Cler. Parl."</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204949:1"/>
+            <pb facs="tcp:204949:1"/>
+            <p> THE DECLARATION OF The LORDS and COMMONS In PARLIAMENT Assembled.</p>
+            <p>Willing, That no Messenger or Officer, by Colour of his Ma<g ref="char:EOLhyphen"/>jesties Command or Warrant under his hand, shall arrest, take, or carry away any of his Majesties Subjects against their Wils, that it is against the Lawes of the Land, the liberty of the Subject, and tends to the disturbance of the peace of the Kingdome, and those that are imployed in the raising of Horses, Money or plate, according to the Proposi<g ref="char:EOLhyphen"/>tions, shall not depart from that service upon any Command from his Majesty whatsoever.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the Lords and Commons Assembled in Parliament, that this Declaration shall be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Browne Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>As also the Vindication of both Houses of <hi>Parliament</hi> of the Earle of <hi>Stamford,</hi> and others, from his <hi>Maiesties</hi> imputation of Treason.</p>
+            <p>With certain instructions from his Majesty to all the Judges of the Kingdome of England.</p>
+            <p>
+               <hi>July</hi> 28. London Printed for John Wright. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="2" facs="tcp:204949:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis, 26. Iulii. 1642.</date>
+               </dateline>
+            </opener>
+            <p>THe Lords and Commons in Parliament doe declare, That it is against the Laws &amp; liberties of the Kingdom, that any of the Subjects therof should be commanded by the King to attend him at his plea<g ref="char:EOLhyphen"/>sure, but such as are bou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d thereto by speciall service. And if any Messenger or Officer shal by colour of a<g ref="char:EOLhyphen"/>ny command from his Majesty, or wa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rant under his Majesties hand Arrest, take, or carry away any of his Majesties Subjects to any place whatsoever, contrary to their wills; That it is both against the Laws of the Land, the liberty of the Subjects, and is to the distur<g ref="char:EOLhyphen"/>bance of the publike peace of the Kingdome; and any of His Majesties Subjects so Arrested, may lawfully refuse to obey such Arrests and commands.</p>
+            <p>And it is further declared, that whosoever is imploy<g ref="char:EOLhyphen"/>ed by both or either House of Parliament concerning the Ord<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nance for the Militia, or in advancing the Propositions for raysing of Horse, Money, or Plate,
+<pb n="3" facs="tcp:204949:2"/> according to the Instructions of both Houses, or in furthering the subscriptions for Ireland, or in any o<g ref="char:EOLhyphen"/>ther Service of both or either House of Parliament, shall not depart that service or attend his Maiesty, up<g ref="char:EOLhyphen"/>on any Summons or Command, Signified by Letter, Proclamation, or otherwise, except such persons shal be compelled to such departure, or attendance, by Authority of Law; And in so doing, both Houses of Parliament will extend the uttermost of their power for their indempnity.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Martis</hi> 26. <hi>Julii</hi> 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords in Parliament, that this Declaration shall bee forthwith Printed and Published.</p>
+                        <closer>
+                           <signed>Io. Browne Cleric. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:204949:3"/>
+            <opener>
+               <signed>Charles R.</signed>
+            </opener>
+            <p>TRusty and well-beloved, We greet you well. We call to mind that in former times the constant custom was, by the mouth of the Lord Keeper for the time being, at the Court of Star-chamber, in the end of Trinity Terme, to put the Judges of Assise (shortly after to undertake their se<g ref="char:EOLhyphen"/>verall Circuits) in mind of such things as were then thought necessary for the present, for the good government of the Kingdome. This course in Our judgement we doe well ap<g ref="char:EOLhyphen"/>prove of, That although We want the opportunity, which We and Our Predecessors then had, of communicating Our thoughts to our Judges, for the good of our people, yet We do still retaine the same care for the safety and prosperity of Our good Subjects: And much more, by how much the distempers and distractions of the present times, unhappily fallen, have given us more occasion. Wee have therefore thought it fit, to supply the defect by these Our Letters; wherein, besides the generall care of Our justice, committed to Us by God, and by Us delegated to Our Jud<g ref="char:EOLhyphen"/>ges by Our severall Commissions, We recommend unto you in your Circuits, as We shall do to the rest of your Brethren in their severall Circuits, these particulars following.</p>
+            <p>First, that you take care, by all the best meanes you can to suppresse Popery in all those Counties whither you are to goe, by putting the Lawes made against them in due executi<g ref="char:EOLhyphen"/>on: And that you take like care to give a stop to the over-ha<g ref="char:EOLhyphen"/>sty growth of Anabaptisme, and other Schismes, as far as by the good Lawes of the Land you may; and to punish the De<g ref="char:EOLhyphen"/>linquents with an equall hand, and those specially of either sort whom you shall discover to be seditious stirrers and movers of others to any Acts of disobedience to Us, and Our government; and that in your Charge, and otherwise, as you shall have fit opportunity, you assure our good Sub<g ref="char:EOLhyphen"/>jects in Our name, and in the word of a King, who cals God to witnesse, that by his gracious assistance we are constantly
+<pb n="5" facs="tcp:204949:3"/> resolved to maintaine the true Protestant Religion, establi<g ref="char:EOLhyphen"/>shed by Law in this Church of <hi>England,</hi> in the purity there<g ref="char:EOLhyphen"/>of, without declining either to the right hand or to the left, as we found it at Our accesse to the Crowne, and as it was maintained in the happy times of Queene <hi>Elizabeth,</hi> and King <hi>James</hi> Our deare Father, both of happy memory, and therein both to live and dye.</p>
+            <p>Secondly, you shall let Our People of those Counties know, that, according to Our Kingly duty and Oath, We are also constantly resolved to maintaine the Lawes of this Our Kingdome; and by, and according to them to governe Our Subjects, and not by any Arbitrary power, whatsoever the Malevolent Spirits of any ill affected to Our Person or Go<g ref="char:EOLhyphen"/>vernment, have suggested, or shall suggest to the contrary. And that we shall also maintain the just Priviledges of Parli<g ref="char:EOLhyphen"/>ament, as far as ever Our Predecessors have done, and as far as may stand with that justice which We owe to Our Crowne, and the honor thereof: but that We may not, nor will admit of any such unwarranted power, in either, or both Houses of Parliament, which in some things hath beene lately usurped, not onely without, but against Our Royall Consent and Command. And We require and command you, as there shall be just occasion offered, in a legall way, that you take care to preserve Our just right in these cases.</p>
+            <p>Thirdly, We charge you, as you tender the peace of this Kingdome, in the Government whereof, according to the Lawes, you Our Judges of the Law have a principall part un<g ref="char:EOLhyphen"/>der Us, that you take care for suppressing of all Insurrecti<g ref="char:EOLhyphen"/>ons, if any such should happen, and of all Riots and unlaw<g ref="char:EOLhyphen"/>full Assemblies under any pretence whatsoever, not warran<g ref="char:EOLhyphen"/>ted by the Laws of this Land; and whosoever shall trangresse therein, that you let them know that they must expect that punishment which by the Law may be inflicted upon them, and at your hands We shall looke for such an account here<g ref="char:EOLhyphen"/>in,
+<pb n="6" facs="tcp:204949:4"/> within your Circuit, as becommeth the quality of the place wherein you serve Us.</p>
+            <p>Fourthly, because the distempers of the present times, un<g ref="char:EOLhyphen"/>happily stirred up and fomented by some, under specious, but unjust pretences, and probable to stir up loose and un<g ref="char:EOLhyphen"/>governed people, under hope of impunity, as far as they dare to make a prey of Our good Subjects, Wee straitly charge and command you to take the best order you can in those Counties, that Rogues, Vagabonds, and other disorderly people may be apprehended, dealt with and punished accor<g ref="char:EOLhyphen"/>ding to the Lawes, whereby the good and quiet people of Our Kingdome may be secured, and the wicked and licenti<g ref="char:EOLhyphen"/>ous may be suppressed: and We charge and command you to give it in charge in all the Counties whither you are sent by Our Commissions, that Watches and Wards be straitly kept in all Parishes and places convenient, whereby the Laws made against such disorders may be put in due execution.</p>
+            <p>Fifthly, and lastly, you shall let Our people of those Counties know from Us, and by Our Command, that if they shall professe unto Us, or unto you in Our stead, any thing wherein they hold themselves grieved, in an humble and sitting way, and shal desire a just Reformation or reliefe, We shall give a gracious eare unto them, and with all conveni<g ref="char:EOLhyphen"/>ence returne them such an answer, as shall give them cause to thanke Us for Our Justice and Favour: and when you shall have published Our cleare intentions to Our people in these things, lest at the first hearing they should not so fully ap<g ref="char:EOLhyphen"/>prehend Our sense therein, you shall deliver a Copy of these Our Letters to the Fore-man of the Grand Jury, and to any other, if any one shall desire Copies of these Our Letters for their better information; and to the end that Our servi<g ref="char:EOLhyphen"/>ces in your Circuit may not suffer through the absence of Our learned Counsell, Our Will and Command is, that you assigne in every place of your Sessions some of the ablest Law<g ref="char:EOLhyphen"/>yers
+<pb n="7" facs="tcp:204949:4"/> who ride that Circuit to be of Counsell for Us, to assist in such Pleas of the Crowne, that may be most necessary for Our service in the execution and punishment of notorious Delinquents.</p>
+            <p>Of all these things We shall expect that good account from you, as We shall from the rest of your Brethren Our Jud<g ref="char:EOLhyphen"/>ges, to whom We have also written to the like purpose; of whose fidelity and good affections We are confident as be<g ref="char:EOLhyphen"/>commeth Us to looke for from you, and for you to render to Us, wherein you have so great a trust committed.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at</hi> Yorke, <date>4. July, 1642.</date>
+               </dateline>
+               <salute>To Our trusty and welbeloved the Judge, or Judges of Assise, for Our Counties of <hi>Kent, Surrey, Sussex, Hartford,</hi> and <hi>Essex.</hi>
+               </salute>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>The Declaration of the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament assembled, concerning the Earle of <hi>Stamford,</hi> and others his Assistants; whom the King Proclaimed Traytors for executing the Ordinance of the MILITIA.</head>
+            <p>VVHereas <hi>Henry</hi> Earle of <hi>Stamford</hi> was by Ordinance of both Houses of Parliament, appoynted Lord-Lieutenant of the County o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Leicester,</hi> and by the Order of both the said Houses the Ma<g ref="char:EOLhyphen"/>gazin of the said County was delivered into his hands to be removed or disposed of as he should thinke fit for the safety and defence of His Majesty and the County; in obedience whereunto, the said Earle did take the Magazine and did place a great part thereof at his house at <hi>Bradgate</hi> under safeguard, and the residue thereof at a place in the New<g ref="char:EOLhyphen"/>arke neer the Towne of <hi>Leicester;</hi> for the doing whereof the said Earle, and also <hi>William Sherman, William Stanley, John Norris,</hi> and <hi>William Rey<g ref="char:EOLhyphen"/>nor,</hi> upon pretence of being Assistants to the said Earle, and all other
+<pb n="8" facs="tcp:204949:5"/> his Adherents, were without all colour of Law, and against the rights and liberties of the Subject proclaimed Traytors, which as concerning the said Earle being a Member of the House of Peeres, is a high breach of the priviledge of Parliament: Be it therefore declared by the said Lords and Commons, That the said Earle, <hi>William Sherman, William Stanley, Iohn Norris, William Reynor,</hi> nor any other of the parties which were assisting of the said Earle in the Premises, have done any thing herein but according to their duties, &amp; in obedience to the commands of both Houses of Parliament; and that therefore the said Earle and all other the said persons his assistants and every of them shal and ought to be protected by the power and Authority of both Houses of Parlia<g ref="char:EOLhyphen"/>ment. And the said Lords and Commons do hereby forbid all Sheriffs, Majors, Bayliffes, Constables, and other His Majesties Officers and Subjects whatsoever, any way to arrest, impeach, molest, or trouble the said Earle, <hi>William Sherman, William Stanley, Iohn Norris, William Reynor,</hi> or any other of the said persons, (so assisting to the said Earle) either in their persons, goods, or estates, for, or by reason of the pre<g ref="char:EOLhyphen"/>mises, without the Authority or consent of both Houses of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords in Parliament, that this Declaration be forthwith Printed and Published.</p>
+                        <closer>
+                           <signed>John Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204949:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
